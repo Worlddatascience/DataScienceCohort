@@ -6,5 +6,5 @@ Project 1 - Quantamental Analysis Terms part 1
 
 Project 2 - Quantamental Analysis Terms part 2
 
-Project 3 - A Stock Prediction Model using Python and deployment with Flask
+Project 3 - A Stock Prediction Model using Python and deployment with Flask with Documentation
 
