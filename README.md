@@ -8,3 +8,4 @@ Project 2 - Quantamental Analysis Terms part 2
 
 Project 3 - A Stock Prediction Model using Python and deployment with Flask with Documentation
 
+Project 4 - Quantopian Finance (Data Science Report)
