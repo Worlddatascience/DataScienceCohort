@@ -10,6 +10,6 @@ Project 2 - Quantamental Analysis Terms part 2
 
 Project 3 - A Stock Prediction Model using Python and deployment with Flask with Documentation
 
-Project 4 - Quantopian Finance (Data Science Report)
+Project 4 - Quantitative Finance with Quantopian (Data Science Report)
 
 Project 5 - Machine Learning Credit Card Fraud Techniques (Data Science Report)
