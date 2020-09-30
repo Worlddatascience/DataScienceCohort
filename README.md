@@ -13,3 +13,5 @@ Project 3 - A Stock Prediction Model using Python and deployment with Flask with
 Project 4 - Quantitative Finance with Quantopian (Data Science Report)
 
 Project 5 - Machine Learning Credit Card Fraud Techniques (Data Science Report)
+
+Project 6 - How to Create a Candlestick Chart in Python
