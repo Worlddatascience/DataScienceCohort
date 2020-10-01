@@ -15,3 +15,7 @@ Project 4 - Quantitative Finance with Quantopian (Data Science Report)
 Project 5 - Machine Learning Credit Card Fraud Techniques (Data Science Report)
 
 Project 6 - How to Create a Candlestick Chart in Python
+
+Project 7 - How to Backtest a Simple Moving Average Strategy
+
+Project 8 - How to Backtest a Bollinger Bands Strategy
