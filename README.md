@@ -4,6 +4,8 @@ We have brought together some of the Brightest minds in Financial Data Science f
 
 Join our Cohort and become an expert in Financial Data Science here: https://worlddatascience.tech/apply
 
+Join Our Whatsapp to Network with Data Science Professionals from around the World! https://chat.whatsapp.com/B7uijAdKmtnI0fakrREteB
+
 Project 1 - Quantamental Analysis Terms part 1
 
 Project 2 - Quantamental Analysis Terms part 2
