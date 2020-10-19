@@ -25,3 +25,7 @@ Project 8 - How to Backtest a Bollinger Bands Strategy
 Project 9 - How to Backtest a Relative Strength index Strategy¶
 
 Project 10 - How to create a Interactive Dashboard using Python
+
+Project 11 - How to create a Time Series
+
+Project 12 - How to create a Fraud Detection Model
