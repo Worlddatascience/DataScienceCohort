@@ -29,3 +29,5 @@ Project 10 - How to create a Interactive Dashboard using Python
 Project 11 - How to create a Time Series
 
 Project 12 - How to create a Fraud Detection Model
+
+Project 13 - What is Decentralized Finance
