@@ -31,3 +31,7 @@ Project 11 - How to create a Time Series
 Project 12 - How to create a Fraud Detection Model
 
 Project 13 - What is Decentralized Finance
+
+Project 14 - CryptoCurrency (Simply Explained)
+
+Project 15 - Stellar (Simply Explained)
