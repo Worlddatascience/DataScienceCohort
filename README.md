@@ -37,3 +37,5 @@ Project 14 - CryptoCurrency (Simply Explained)
 Project 15 - Stellar (Simply Explained)
 
 Project 16 - Options (Simply Explained)
+
+Project 17 - Deep Learning for Finance
