@@ -44,4 +44,4 @@ Project 18 - CryptoCurrencies
 
 Project 19 - Online Bank Account Application
 
-Project 20 -
+Project 20 - Blockchain Simply Explained
