@@ -44,4 +44,6 @@ Project 18 - CryptoCurrencies
 
 Project 19 - Online Bank Account Application
 
-Project 20 - Blockchain Simply Explained
+Project 20 - Blockchain Simply 
+
+Project 21 - CyberSecurity and Financial Data Science
