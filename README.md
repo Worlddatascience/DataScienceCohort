@@ -49,3 +49,5 @@ Project 20 - Blockchain Simply
 Project 21 - CyberSecurity and Financial Data Science
 
 Project 22 - Data Science and CyberSecurity
+
+Project 23 - Blockchain Engineering
