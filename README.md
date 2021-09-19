@@ -42,4 +42,6 @@ Project 17 - Deep Learning for Finance
 
 Project 18 - CryptoCurrencies
 
-Project 19 - 
+Project 19 - Online Bank Account Application
+
+Project 20 -
